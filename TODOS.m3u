@@ -1,141 +1,182 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bics Extra MX", AZTECA UNO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
-#EXTINF:-1 group-title="Bics Extra MX", LAS ESTRELLAS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
-#EXTINF:-1 group-title="Bics Extra MX", FORO TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/699
-#EXTINF:-1 group-title="Bics Extra MX", IMAGEN TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
-#EXTINF:-1 group-title="Bics Extra MX", CANAL 5
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
-#EXTINF:-1 group-title="Bics Extra MX", AZTECA 7
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/677
-#EXTINF:-1 group-title="Bics Extra MX", NU9VE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
-#EXTINF:-1 group-title="Bics Extra MX", CANAL ONCE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/720
-#EXTINF:-1 group-title="Bics Extra MX", ADN 40
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676
 
-#EXTINF:-1 group-title="Bics Extra MX", MILENIO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714
+#EXTINF:-1 group-title="CANALES VARIADOS", Nat Geo HD
+http://138.59.177.34:8000/play/a074/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", CARTOONITO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
-#EXTINF:-1 group-title="Bics Extra MX", CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
-#EXTINF:-1 group-title="Bics Extra MX", DK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/687
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Channel HD
+http://138.59.177.34:8000/play/a077/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", DISNEY JR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/689
-#EXTINF:-1 group-title="Bics Extra MX", NICK JR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/717
+#EXTINF:-1 group-title="CANALES VARIADOS", History Channel
+http://138.59.177.34:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", History HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", TLC
+http://138.59.177.34:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT
+http://138.59.177.34:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT HD
+http://138.59.177.34:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT Series
+http://138.59.177.34:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT Series HD
+http://138.59.177.34:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TBN Enlace
+http://138.59.177.34:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TBS
+http://138.59.177.34:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TCM
+http://138.59.177.34:8000/play/a04e/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", A&E HD
+http://138.59.177.34:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Sony Movies HD
+http://138.59.177.34:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Studio Universal HD
+http://138.59.177.34:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AMC HD
+http://138.59.177.34:8000/play/a033/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", AZ click HD
+http://138.59.177.34:8000/play/a039/index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Animal Planet HD
+http://138.59.177.34:8000/play/a02z/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Bics Extra MX", COMEDY CENTRAL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/685
+#EXTINF:-1 group-title="CANALES VARIADOS", Teen Nick HD
+http://138.59.177.34:8000/play/a02x/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", DISTRITO COMEDIA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+#EXTINF:-1 group-title="CANALES VARIADOS", FX HD
+http://138.59.177.34:8000/play/a035/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", TUDN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CINEMA ESTE HD
+http://138.59.177.34:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL COMEDY HD
+http://138.59.177.34:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CRIME HD
+http://138.59.177.34:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL PREMIERE HD
+http://138.59.177.34:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL PREMIERE O HD
+http://138.59.177.34:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL REALITY HD
+http://138.59.177.34:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", ESPN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN HD
+http://138.59.177.34:8000/play/a070/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", ESPN 2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
-#EXTINF:-1 group-title="Bics Extra MX", ESPN 3
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 HD
+http://138.59.177.34:8000/play/a072/index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2
+http://138.59.177.34:8000/play/a059/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 3 HD
+http://138.59.177.34:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 4
+http://138.59.177.34:8000/play/a06j/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 4  HD
+http://138.59.177.34:8000/play/a06v/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 2 HD
+http://138.59.177.34:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 3 HD
+http://138.59.177.34:8000/play/a073/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", AMC
+http://138.59.177.34:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", AXN
+http://138.59.177.34:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AXN HD
+http://138.59.177.34:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Golden Premiere HD
+http://138.59.177.34:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Golden Premiere 2 HD
+http://138.59.177.34:8000/play/a019/index.m3u8
+
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 group-title="Bics", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
+
+#EXTINF:-1 group-title="Bics", IMAGEN TV
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
+
+#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",FORO TV 
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+#EXTINF:-1 group-title="Bics", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 group-title="Bics", ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1  group-title="Bics", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1  group-title="Bics", MVS
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 group-title="Bics", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png", Multimedios CDMX | MX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network Mexico
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",Discovery Kids FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+
+#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png", Teleritmo | MX
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title="Bics Extra", Claro Sports HD 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
+#EXTINF:-1 group-title="Bics", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Bics", REAL MADRID TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Bics Extra MX", E!
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/692
-
-#EXTINF:-1 group-title="Bics Extra MX", UNIVERSAL REALTY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/700
-
-#EXTINF:-1 group-title="Bics Extra MX", UNIVERSAL CRIME
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/701
-
-#EXTINF:-1 group-title="Bics Extra MX", UNIVERSAL COMEDY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/702
-
-#EXTINF:-1 group-title="Bics Extra MX", UNIVERSAL TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/703
-
-#EXTINF:-1 group-title="Bics Extra MX", UNIVERSAL PREMIER
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/705
-
-#EXTINF:-1 group-title="Bics Extra MX", FX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
-
-#EXTINF:-1 group-title="Bics Extra MX", AXN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
-
-#EXTINF:-1 group-title="Bics Extra MX", AZTECA CINEMA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
-
-#EXTINF:-1 group-title="Bics Extra MX", GOURMET
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
-
-#EXTINF:-1 group-title="Bics Extra MX", DPELICULA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/507
-
-#EXTINF:-1 group-title="Bics Extra MX", CINEMAX HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 
 #EXTINF:-1 group-title="Bics", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", PREMIER
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/709
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Undefined",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", HISTORY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/711
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO LA
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", NATGEO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/716
+#EXTINF:-1 group-title="Bics Extra", TELEMUNDO LA
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 
-#EXTINF:-1 group-title="Bics Extra USA", NATGEO MUNDO HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", UNICABLE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/727
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", UNIVISION LATAM
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics Extra MX", TELENOVELAS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/723
-
-#EXTINF:-1 group-title="Bics Extra USA", TNT NOVELAS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
-
-#EXTINF:-1 group-title="Bics Extra USA", TELENOVELAS UNIVISION
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/667
-
-#EXTINF:-1 group-title="Bics Extra USA", UNIVERSO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
-
-#EXTINF:-1 group-title="Bics Extra MX", TLC
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/724
-
-#EXTINF:-1 group-title="Bics Extra MX", TELEHIT
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/653
-
-#EXTINF:-1 group-title="Bics Extra USA", MTV LIVE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
-
-
-
+#EXTINF:-1 tvg-id="ViXParejas.mx" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Entertainment",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
