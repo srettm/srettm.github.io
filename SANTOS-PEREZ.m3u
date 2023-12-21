@@ -1,4 +1,9 @@
 #EXTM3U
+##nuevos
+#EXTINF:-1 group-title="CANALES VARIADOS", Cartoon Network
+http://138.59.177.34:8000/play/a023/index.m3u8
+
+##viejos
 
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
