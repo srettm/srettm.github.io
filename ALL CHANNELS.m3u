@@ -1,0 +1,160 @@
+#EXTM3U
+
+##Abiertos
+
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 group-title="Bics", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 group-title="Bics", AZTECA UNO -1 HR
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
+
+#EXTINF:-1 group-title="Bics", IMAGEN TV
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
+
+#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",FORO TV 
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://cdn.m3u.cl/logo/667_Multimedios_CDMX.png", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Bics", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 group-title="Bics", ONCE
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="Bics", MILENIO
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#Deportes
+
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN
+http://138.59.177.34:8000/play/a058/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2
+http://138.59.177.34:8000/play/a059/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 3
+http://138.59.177.34:8000/play/a046/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 4
+http://138.59.177.34:8000/play/a06j/index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX Sports 2
+http://138.59.177.34:8000/play/a047/index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Fox Sport 3
+http://138.59.177.34:8000/play/a02h/index.m3u8
+
+#EXTINF:-1  group-title="Bics Extra", Claro Sports 1
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Claro Sports 2
+http://138.59.177.34:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="Bics", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Bics", REAL MADRID TV
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+
+
+##Documentales
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery
+http://138.59.177.34:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Discovery Home & Health
+http://138.59.177.34:8000/play/a06f/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", National Geographic
+http://138.59.177.34:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", History Channel
+http://138.59.177.34:8000/play/a056/index.m3u8
+
+
+##Caricaturas
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network Mexico
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Nickelodeon
+http://138.59.177.34:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",Discovery Kids
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+
+##PELICULAS
+
+#EXTINF:-1 group-title="CANALES VARIADOS", A&E
+http://138.59.177.34:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AMC
+http://138.59.177.34:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AXN
+http://138.59.177.34:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", FX
+http://138.59.177.34:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Golden
+http://138.59.177.34:8000/play/a04d/index.m3u8
+
+#EXTINF:-1 group-title="Bics", Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Undefined",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", Golden Premiere 2
+http://138.59.177.34:8000/play/a019/index.m3u8
+
+#EXTINF:-1 group-title="CANALES VARIADOS", SPACE
+http://138.59.177.34:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Universal
+http://138.59.177.34:8000/play/a06m/index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", CineCanal
+http://138.59.177.34:8000/play/a06s/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CineMax
+http://138.59.177.34:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Claro Cinema
+http://138.59.177.34:8000/play/a05b/index.m3u8
+#EXTINF:-1  group-title="Bics", A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+##MUSICA
+
+#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://cdn.m3u.cl/logo/680_Teleritmo.png", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="CANALES VARIADOS", Claro Musica
+http://138.59.177.34:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Exa TV
+http://138.59.177.34:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", MTV Hits
+http://138.59.177.34:8000/play/a02i/index.m3u8
+
+##Extras
+#EXTINF:-1 group-title="CANALES VARIADOS", Univision
+http://138.59.177.34:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Telemundo
+http://138.59.177.34:8000/play/a02a/index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", E!
+http://138.59.177.34:8000/play/a051/index.m3u8
